@@ -1,4 +1,4 @@
-# Proxmox Manager
+# PHP Manager
 
 Le Proxmox Manager est un tableau de bord puissant et open source conçu pour simplifier la gestion de votre réseau d'instances Proxmox. Que vous soyez un administrateur système expérimenté ou un passionné d'informatique, cet outil convivial vous permettra de gérer efficacement vos instances et de bénéficier de fonctionnalités avancées.
 

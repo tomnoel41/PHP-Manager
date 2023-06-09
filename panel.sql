@@ -95,7 +95,7 @@ CREATE TABLE `settings` (
 --
 
 INSERT INTO `settings` (`id`, `name`, `logo`, `favicon`, `description`) VALUES
-(1, 'Proxmox-Manager', '/assets/upload/logo.jpg', '/assets/upload/logo.jpg', 'Proxmox-Manager est un panel complet permettant la gestion facile et rapide des instances virtuelles. Créez, gérez et supprimez vos instances en toute simplicité pour répondre à vos besoins spécifiques.');
+(1, 'PHP-Manager', '/assets/upload/logo.jpg', '/assets/upload/logo.jpg', 'PHP-Manager est un panel complet en php avec authentification, permettant de facilement déployer un panel.');
 
 -- --------------------------------------------------------
 
